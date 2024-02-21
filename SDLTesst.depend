@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1708543814 source:c:\users\hungd\onedrive\máy tính\game_own_create\sdltesst\initsdl.cpp
+	<SDL.h>
+	<iostream>
+
+1708543814 source:c:\users\hungd\onedrive\máy tính\game_own_create\sdltesst\main.cpp
+	<SDL.h>
+	"initSDL.h"
+
+1708543814 c:\users\hungd\onedrive\máy tính\game_own_create\sdltesst\initsdl.h
+	<SDL.h>
+	"initSDL.h"
+
