@@ -2,10 +2,10 @@
 #include "initSDL.h"
 
 int main(int argc, char* argv[]){
-    SDL_Window *Window;
-    SDL_Renderer *Renderer;
-    initSDL(Window, Renderer);
+    SDL_Window *w;
+    SDL_Renderer *r;
+    initSDL(w, r);
     waitUntilKeyPressed();
-    quitSDL(Window, Renderer);
+    quitSDL(w, r);
     return 0;
 }
